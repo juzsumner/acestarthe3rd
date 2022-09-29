@@ -12,7 +12,7 @@ function App() {
       <div className='container max-w-md md:max-w-xl pt-10 px-5 py-24 mx-auto'>
         <div className='text-center mb-10'>
           <div className='aceimg w-60 h-60 border-2 border-white border-opacity-40 rounded-full mx-auto mb-5 shadow-lg'></div>
-          <h1 className='text-4xl font-medium text-center title-font text-white mb-4'>AceStarThe3rd</h1>
+          <h1 className='text-4xl font-medium text-center title-font text-white mb-4 drop-shadow-lg'>AceStarThe3rd</h1>
         </div>
         
           <div className='p-2 w-full mx-auto'><a href="https://www.twitch.tv/acestarthe3rd">
